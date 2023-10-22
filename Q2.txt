@@ -1,0 +1,10 @@
+Write a blog about objects and its internal representation in Javascript
+
+Answer:
+
+1. Objects allow developers to store and manipulate data in a structured way, enabling the creation of complex systems and applications. 
+2. In this blog post, we will embark on a journey to unravel the internal representation of objects in JavaScript, exploring the magic 
+    that happens under the hood.
+
+3. Objects:  Beyond Key-Value Pairs
+4. Inheritance: The Foundation of Objects

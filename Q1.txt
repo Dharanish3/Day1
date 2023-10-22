@@ -1,0 +1,9 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2
+
+Answer:
+
+1. HTTP1.1  was a revolutionary step forward in web communication. 
+2. Every element on a web page, be it images, scripts, or stylesheets, required a separate connection, leading to a significant overhead and slower load times.
+3. HTTP/2 allows multiple requests and responses to be sent and received simultaneously on a single connection. 
+4. HTTP/2 supports stream prioritization, allowing the client to specify which resources are more critical, ensuring a smoother user experience, especially in bandwidth-constrained environments.
+5. Both HTTP/1.1 and HTTP/2 can be used over secure connections (HTTPS). However, major web browsers, such as Chrome, Firefox, and Safari, have started encouraging HTTPS adoption by prioritizing HTTP/2 support for secure websites. 
